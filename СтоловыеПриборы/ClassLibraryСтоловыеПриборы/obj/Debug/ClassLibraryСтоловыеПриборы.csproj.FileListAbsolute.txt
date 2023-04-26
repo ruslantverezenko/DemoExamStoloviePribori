@@ -1,0 +1,6 @@
+C:\Users\Q\source\repos\СтоловыеПриборы\ClassLibraryСтоловыеПриборы\bin\Debug\ClassLibraryСтоловыеПриборы.dll
+C:\Users\Q\source\repos\СтоловыеПриборы\ClassLibraryСтоловыеПриборы\bin\Debug\ClassLibraryСтоловыеПриборы.pdb
+C:\Users\Q\source\repos\СтоловыеПриборы\ClassLibraryСтоловыеПриборы\obj\Debug\ClassLibraryСтоловыеПриборы.csprojAssemblyReference.cache
+C:\Users\Q\source\repos\СтоловыеПриборы\ClassLibraryСтоловыеПриборы\obj\Debug\ClassLibraryСтоловыеПриборы.csproj.CoreCompileInputs.cache
+C:\Users\Q\source\repos\СтоловыеПриборы\ClassLibraryСтоловыеПриборы\obj\Debug\ClassLibraryСтоловыеПриборы.dll
+C:\Users\Q\source\repos\СтоловыеПриборы\ClassLibraryСтоловыеПриборы\obj\Debug\ClassLibraryСтоловыеПриборы.pdb

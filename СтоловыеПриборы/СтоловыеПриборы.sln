@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "СтоловыеПриборы", "СтоловыеПриборы\СтоловыеПриборы.csproj", "{8DA18EEC-3764-4319-BE09-8603D0738880}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryСтоловыеПриборы", "ClassLibraryСтоловыеПриборы\ClassLibraryСтоловыеПриборы.csproj", "{A836432B-DCFF-4BAB-A265-D2EB11D7EA94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DA18EEC-3764-4319-BE09-8603D0738880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DA18EEC-3764-4319-BE09-8603D0738880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DA18EEC-3764-4319-BE09-8603D0738880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DA18EEC-3764-4319-BE09-8603D0738880}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A836432B-DCFF-4BAB-A265-D2EB11D7EA94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A836432B-DCFF-4BAB-A265-D2EB11D7EA94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A836432B-DCFF-4BAB-A265-D2EB11D7EA94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A836432B-DCFF-4BAB-A265-D2EB11D7EA94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A110EFE8-B710-4798-86CD-AD54DD56AD40}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\Q\source\repos\СтоловыеПриборы\СтоловыеПриборы\bin\Debug\СтоловыеПриборы.exe.config
+C:\Users\Q\source\repos\СтоловыеПриборы\СтоловыеПриборы\bin\Debug\СтоловыеПриборы.exe
+C:\Users\Q\source\repos\СтоловыеПриборы\СтоловыеПриборы\bin\Debug\СтоловыеПриборы.pdb
+C:\Users\Q\source\repos\СтоловыеПриборы\СтоловыеПриборы\bin\Debug\ClassLibraryСтоловыеПриборы.dll
+C:\Users\Q\source\repos\СтоловыеПриборы\СтоловыеПриборы\bin\Debug\ClassLibraryСтоловыеПриборы.pdb
+C:\Users\Q\source\repos\СтоловыеПриборы\СтоловыеПриборы\obj\Debug\СтоловыеПриборы.csprojAssemblyReference.cache
+C:\Users\Q\source\repos\СтоловыеПриборы\СтоловыеПриборы\obj\Debug\СтоловыеПриборы.Forms.FormLogin.resources
+C:\Users\Q\source\repos\СтоловыеПриборы\СтоловыеПриборы\obj\Debug\СтоловыеПриборы.Form1.resources
+C:\Users\Q\source\repos\СтоловыеПриборы\СтоловыеПриборы\obj\Debug\СтоловыеПриборы.Properties.Resources.resources
+C:\Users\Q\source\repos\СтоловыеПриборы\СтоловыеПриборы\obj\Debug\СтоловыеПриборы.csproj.GenerateResource.cache
+C:\Users\Q\source\repos\СтоловыеПриборы\СтоловыеПриборы\obj\Debug\СтоловыеПриборы.csproj.CoreCompileInputs.cache
+C:\Users\Q\source\repos\СтоловыеПриборы\СтоловыеПриборы\obj\Debug\СтоловыеПриборы.csproj.CopyComplete
+C:\Users\Q\source\repos\СтоловыеПриборы\СтоловыеПриборы\obj\Debug\СтоловыеПриборы.exe
+C:\Users\Q\source\repos\СтоловыеПриборы\СтоловыеПриборы\obj\Debug\СтоловыеПриборы.pdb
+C:\Users\Q\source\repos\СтоловыеПриборы\СтоловыеПриборы\obj\Debug\СтоловыеПриборы.Forms.FormGoods.resources
+C:\Users\Q\source\repos\СтоловыеПриборы\СтоловыеПриборы\bin\Debug\БДСтоловыеПриборы.mdb
